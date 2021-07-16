@@ -1,3 +1,60 @@
 body {
-    background: blue;
+  background:rgb(43, 43, 43);  
+
   } 
+
+
+h1 {
+  text-align: center;
+  background-color:rgb(204, 155, 219);
+  
+  
+}
+div#about {
+  background: rgb(234, 219, 253);
+  margin:auto;
+  max-width:1000px;
+  border-radius:1cm;
+}
+
+div#about p {
+margin: 0 100px 0 100px;
+font-size: 18px;
+padding: 10px 0 10px 0;
+text-align:center;
+}
+
+h2 {
+  text-align: center;
+  background-color:rgb(204, 155, 219);
+  margin:auto;
+  max-width:300px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+div#content {
+
+}
+
+figure.photos {
+  text-align: center;
+}
+
+button {
+  background-color:rgb(218, 162, 255);
+  padding:20px;
+  border-radius: 20px;
+  font-size: 20px;
+  border-color:rgb(158, 200, 255);
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+
+}
+
+footer {
+  background-color:black;
+  color: white;
+  text-align:center; 
+}

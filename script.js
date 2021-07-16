@@ -1,3 +1,6 @@
-const h2 = document.createElement('h2');
-h2.textContent = "This content added by JavaScript"; 
-document.querySelector('body').appendChild(h2); 
+// create "random lily" buttton. Button click will display random image from gallery of images.
+
+/* function addEventListener("click"), function(e){
+    if 
+}
+
