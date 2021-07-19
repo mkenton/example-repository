@@ -53,3 +53,15 @@ footer {
   color: white;
   text-align:center; 
 }
+
+.animated {
+  height:500px;
+  width:421px;
+  background: url("./images/Lily-gif-preview.png");
+  margin:auto;
+}
+
+.animated:hover {
+    cursor:pointer;
+    background:url("./images/Lily-animated.gif");
+}
